@@ -1,6 +1,6 @@
 # get-total-orders
 
-_Get information about your order, the number of goods you have ordered on Tiki and Shoppe._
+_Get information about your orders, the number of goods you have ordered on Tiki and Shoppe._
 
 ## **INSTRUCTION**
 * Go to Shoppe or Tiki folder.
